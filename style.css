@@ -273,10 +273,10 @@ p {
     z-index: 0; 
     opacity: 0.07;
     background-image:
-        url("assets/character_1.png"),
-        url("assets/character_5.png"),
-        url("assets/character_2.png"),
-        url("assets/character_3.png");
+        url("character_1.png"),
+        url("character_5.png"),
+        url("character_2.png"),
+        url("character_3.png");
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     background-position:
         116% 10%,
@@ -908,3 +908,4 @@ textarea:focus {
         border-width: 1px;
     }
 }
+
